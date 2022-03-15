@@ -1,0 +1,26 @@
+{
+  "name": "arcana3",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Arcana Software Development LLC",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:mskorok/arcana3.git"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3",
+    "jarallax": "^1.12.8",
+    "jquery-lazy": "^1.7.11",
+    "jquery.browser": "^0.1.0",
+    "jquery.cookie": "^1.4.1",
+    "lazyload": "^2.0.0-rc.2",
+    "magnific-popup": "^1.1.0",
+    "owl.carousel": "^2.3.4",
+    "paroller.js": "^1.4.7",
+    "swiper": "^7.0.9",
+    "wow.js": "^1.2.2"
+  }
+}
